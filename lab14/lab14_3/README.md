@@ -12,7 +12,7 @@ El objetivo es analizar el consumo energético en diferentes edificios, comparar
 
 ## Paso a Paso: Crear un Informe en Power BI
 
-
+![Captura de pantalla del escenario 3 en Power BI](lab14_3.png)
 
 ## Conclusión
 
