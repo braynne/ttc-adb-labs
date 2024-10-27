@@ -1,6 +1,6 @@
 # Laboratorio 14
 
-Sesión #14 Medidas con DAX
+### Sesión #14 Medidas con DAX
 
 **Título del Laboratorio:** Aplicación del uso de la herramienta de Power BI con las Medidas (DAX) y el uso de los Filtros y Segmentaciones.
 
