@@ -6,7 +6,7 @@ completado, las horas trabajadas, y las calificaciones de rendimiento que han re
 
 ## Paso a Paso: Crear un Informe en Power BI
 
-
+![Captura de pantalla del escenario 2 en Power BI](lab14_2.png)
 
 ## Conclusión
 
