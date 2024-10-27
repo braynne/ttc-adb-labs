@@ -13,7 +13,7 @@ El objetivo será analizar el rendimiento de las ventas por producto, promedio d
 
 ## Paso a Paso: Crear un Informe en Power BI
 
-
+![Captura de pantalla del escenario 1 en Power BI](lab14_1.png)
 
 ## Conclusión
 
