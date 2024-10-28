@@ -1,9 +1,6 @@
 ## Escenario 1: datos de ventas en línea
 
-Se tiene un conjunto de datos de una empresa de ventas online que contiene información
-de clientes, productos vendidos y fechas de transacciones. El archivo tiene problemas
-comunes como valores faltantes en la columna de códigos de productos, precios con
-formato incorrecto y nombres de clientes en mayúsculas y minúsculas mezcladas.
+Se tiene un conjunto de datos de una empresa de ventas online que contiene información de clientes, productos vendidos y fechas de transacciones. El archivo tiene problemas comunes como valores faltantes en la columna de códigos de productos, precios con formato incorrecto y nombres de clientes en mayúsculas y minúsculas mezcladas.
 
 ## Paso a paso para la limpieza
 
