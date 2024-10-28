@@ -1,11 +1,6 @@
 ## Escenario 3: Tienda minoritaria de tecnología
 
-Trabajas para una tienda minoritaria tecnología, el equipo de inventario tiene dificultades
-para gestionar adecuadamente los datos de productos debido a la calidad inconsistente de
-los registros. El conjunto de datos de inventario incluye información sobre ID de producto,
-Nombre del producto, Cantidad disponible, Precio unitario y Fecha de ingreso al inventario.
-Sin embargo, se han detectado varios problemas en los datos que impiden su uso eficaz para
-análisis de ventas y reposición de stock.
+Trabajas para una tienda minoritaria tecnología, el equipo de inventario tiene dificultades para gestionar adecuadamente los datos de productos debido a la calidad inconsistente de los registros. El conjunto de datos de inventario incluye información sobre ID de producto, Nombre del producto, Cantidad disponible, Precio unitario y Fecha de ingreso al inventario. Sin embargo, se han detectado varios problemas en los datos que impiden su uso eficaz para análisis de ventas y reposición de stock.
 
 Los problemas para solucionar incluyen:
 
@@ -13,9 +8,11 @@ Los problemas para solucionar incluyen:
 - Precios de algunos productos faltantes.
 - Cantidades de productos con texto adicional "unidades".
 
-El objetivo es optimizar la calidad de los datos de inventario mediante la corrección de
-errores comunes, asegurando que los registros sean consistentes, completos y adecuados
-para análisis de inventarios y toma de decisiones estratégicas en la tienda.
+El objetivo es optimizar la calidad de los datos de inventario mediante la corrección deerrores comunes, asegurando que los registros sean consistentes, completos y adecuados para análisis de inventarios y toma de decisiones estratégicas en la tienda.
+
+## Paso a paso para la limpieza
+
+![Captura de pantalla del escenario 3 en Power BI](lab15_3.png)
 
 ## Conclusiones
 
