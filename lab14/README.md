@@ -23,4 +23,10 @@
 
 Aplicar los temas visto en la sesión con la realización del paso a paso y capturas de pantalla del proceso y aplicación de los DAX y filtros con la segmentación, realizar una pequeña visualización, describir una corta conclusión del análisis de los datos, según el escenario planteado. Deberás colocarlo en el repositorio y anexar la captura de pantalla.
 
+[Escenario 1](lab14_1)
+
+[Escenario 2](lab14_2)
+
+[Escenario 3](lab14_3)
+
 ![Captura de pantalla de github](github.png)

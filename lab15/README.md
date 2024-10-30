@@ -23,5 +23,11 @@
 
 En la primera parte se aplicarán los temas vistos en la sesión como es la limpieza de los datos, se deberá realizar el paso a paso con las respetivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados.
 
+[Escenario 1](lab15_1)
+
+[Escenario 2](lab15_2)
+
+[Escenario 3](lab15_3)
+
 ![Captura de pantalla de github](github.png)
 

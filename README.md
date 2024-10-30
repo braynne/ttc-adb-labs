@@ -1,25 +1,14 @@
-# ttc-adb-labs
+# Talento Tech Caribe - Análisis de datos básico - Laboratorios
 
-## [Laboratorio 16](lab16)
+## Laboratorios 14 - 18
 
-[Escenario 1](lab16/lab16_1)
+### [Laboratorio 14](lab14)
 
-[Escenario 2](lab16/lab16_2)
+### [Laboratorio 15](lab15)
 
-[Escenario 3](lab16/lab16_3)
+### [Laboratorio 16](lab16)
 
-## [Laboratorio 15](lab15)
+### [Laboratorio 17](lab17)
 
-[Escenario 1](lab15/lab15_1)
 
-[Escenario 2](lab15/lab15_2)
 
-[Escenario 3](lab15/lab15_3)
-
-## [Laboratorio 14](lab14)
-
-[Escenario 1](lab14/lab14_1)
-
-[Escenario 2](lab14/lab14_2)
-
-[Escenario 3](lab14/lab14_3)
