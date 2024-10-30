@@ -1,6 +1,6 @@
 # Laboratorio 14
 
-### Sesión #14 Medidas con DAX
+## Sesión #14 Medidas con DAX
 
 **Título del Laboratorio:** Aplicación del uso de la herramienta de Power BI con las Medidas (DAX) y el uso de los Filtros y Segmentaciones.
 
@@ -21,7 +21,6 @@
 
 ### Parte 1
 
-Aplicar los temas visto en la sesión con la realización del paso a paso y capturas de pantalla del
-proceso y aplicación de los DAX y filtros con la segmentación, realizar una pequeña visualización,
-describir una corta conclusión del análisis de los datos, según el escenario planteado.
-Deberás colocarlo en el repositorio y anexar la captura de pantalla
+Aplicar los temas visto en la sesión con la realización del paso a paso y capturas de pantalla del proceso y aplicación de los DAX y filtros con la segmentación, realizar una pequeña visualización, describir una corta conclusión del análisis de los datos, según el escenario planteado. Deberás colocarlo en el repositorio y anexar la captura de pantalla.
+
+![Captura de pantalla de github](github.png)
