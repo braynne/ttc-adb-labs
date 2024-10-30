@@ -1,17 +1,25 @@
-# ttc-adb-labs
+# Laboratorio 15
 
-## [Laboratorio 15](lab15)
+### Sesión # 15 Limpieza con Power BI
 
-[Escenario 1](lab15/lab15_1)
+**Título del Laboratorio:** Aplicación y uso de la herramienta de Power BI para hacer la limpieza de los datos.
 
-[Escenario 2](lab15/lab15_2)
+**Duración:** 2 horas
 
-[Escenario 3](lab15/lab15_3)
+**Objetivos del Laboratorio:**
 
-## [Laboratorio 14](lab14)
+1. Afianzar los conocimientos y manejo básico en Power BI para realizar las visualizaciones con ejercicios prácticos planteados.
 
-[Escenario 1](lab14/lab14_1)
+**Materiales Necesarios:**
 
-[Escenario 2](lab14/lab14_2)
+1. Computador con acceso a internet.
+2. Colocarlo en el repositorio de Github
+3. Ampliar el conocimiento con el curso de datos en AWS y Cisco.
+4. Power BI descargarlo
 
-[Escenario 3](lab14/lab14_3)
+**Estructura del Laboratorio:**
+
+### Parte 1
+En la primera parte se aplicarán los temas vistos en la sesión como es la limpieza de los datos,
+se deberá realizar el paso a paso con las respetivas capturas de pantalla, esta aplicación es de
+acuerdo con los escenarios planteados
