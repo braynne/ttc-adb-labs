@@ -30,5 +30,3 @@ En la primera parte se aplicarán los temas vistos en la sesión como es Visuali
 [Escenario 3](lab17_3)
 
 ![Captura de pantalla de github](github.png)
-
-![Captura de pantalla de cisco](cisco.png)
