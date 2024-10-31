@@ -1,12 +1,18 @@
 # Laboratorio 18
 
+NECESITA EDITARLO
+
+```bash
+pip install matplotlib```
+
+<!--
 ## Sesión #14 Medidas con DAX
 
 **Título del Laboratorio:** Aplicación del uso de la herramienta de Power BI con las Medidas (DAX) y el uso de los Filtros y Segmentaciones.
 
-NECESITA EDITARLO
 
-<!--
+
+
 
 **Duración:** 2 horas
 
