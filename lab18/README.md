@@ -2,8 +2,12 @@
 
 NECESITA EDITARLO
 
-```bash
-pip install matplotlib
+```python
+var = "Hola mundo"
+print(var)
+
+for i in range(10):
+  print(i)
 ```
 
 <!--
