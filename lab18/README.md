@@ -4,6 +4,10 @@
 
 **Título del Laboratorio:** Aplicación del uso de la herramienta de Power BI con las Medidas (DAX) y el uso de los Filtros y Segmentaciones.
 
+NECESITA EDITARLO
+
+<!--
+
 **Duración:** 2 horas
 
 **Objetivos del Laboratorio:**
@@ -30,3 +34,4 @@ Aplicar los temas visto en la sesión con la realización del paso a paso y capt
 [Escenario 3](lab14_3)
 
 ![Captura de pantalla de github](github.png)
+-->
