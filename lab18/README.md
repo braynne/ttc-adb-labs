@@ -1,4 +1,4 @@
-# Laboratorio 14
+# Laboratorio 18
 
 ## Sesión #14 Medidas con DAX
 
