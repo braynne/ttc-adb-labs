@@ -3,7 +3,8 @@
 NECESITA EDITARLO
 
 ```bash
-pip install matplotlib```
+pip install matplotlib
+```
 
 <!--
 ## Sesión #14 Medidas con DAX
