@@ -21,7 +21,7 @@
 
 ### Parte 1
 
-En la primera parte se aplicarán los temas vistos en la sesión como es visualizaciones en Power BI más usadas y personalizadas en los datos, se deberá realizar el paso a paso con las respectivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados. Realización de la unidad del curso de AWS o Cisco y anexar captura de pantalla del avance.
+En la primera parte se aplicarán los temas vistos en la sesión como es visualizaciones en Power BI más usadas y personalizadas en los datos, se deberá realizar el paso a paso con las respectivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados.
 
 Realizar el paso a paso con cada visualización, personalizar los gráficos, deberás realizar las respectivas capturas de pantalla, conclusión, guardar el archivo.
 
