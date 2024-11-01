@@ -23,7 +23,7 @@ print(f"""\nVerificación de valores nulos:
 {df_financiero.isnull().sum()}""")
 ```
 
-[Código de python del escenario 1](lab20_1.py)
+[Código completo del escenario 1](lab20_1.py)
 
 ### Conclusión
 
