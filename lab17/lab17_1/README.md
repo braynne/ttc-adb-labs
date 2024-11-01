@@ -21,3 +21,7 @@ El objetivo es analizar el estado de los inventarios para identificar productos 
 ## Conclusión
 
 Este análisis de inventarios en Power BI permite identificar productos con bajo stock y calcular el costo total del inventario en cada almacén, facilitando el control financiero. Al visualizar las tendencias de reabastecimiento a lo largo del tiempo, la empresa puede optimizar el proceso de reabastecimiento y mejorar la disponibilidad de productos en sus almacenes, asegurando una operación más eficiente y evitando faltantes.
+
+[Laboratorio 17](../../lab17)
+
+[Escenario 2](../lab17_2)
