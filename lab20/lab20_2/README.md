@@ -6,7 +6,7 @@ Un hospital está llevando a cabo un estudio para analizar cómo diferentes fact
 
 ### Paso a paso
 
-[Código de python del escenario 1](lab20_1.py)
+[Código de python del escenario 2](lab20_2.py)
 
 ### Conclusión
 
