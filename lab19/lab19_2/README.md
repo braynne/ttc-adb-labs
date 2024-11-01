@@ -6,7 +6,7 @@ Se quiere analiza el turismo en las principales ciudades europeas. Se busca visu
 
 ### Paso a paso
 
-[Captura de pantalla del escenario 2 en Power BI](lab19_2.png)
+![Captura de pantalla del escenario 2 en Power BI](lab19_2.png)
 
 ### Conclusión
 
