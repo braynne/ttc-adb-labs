@@ -11,3 +11,7 @@ completado, las horas trabajadas, y las calificaciones de rendimiento que han re
 ## Conclusión
 
 El análisis del rendimiento de empleados permite identificar a aquellos con alto desempeño mediante el número de proyectos completados, horas trabajadas y calificaciones recibidas. Esto ayuda a reconocer talento destacado, optimizar la asignación de proyectos y enfocar estrategias de desarrollo y capacitación para mejorar el rendimiento general del equipo.
+
+[Escenario 1](../lab14_1)
+
+[Escenario 3](../lab14_3)
