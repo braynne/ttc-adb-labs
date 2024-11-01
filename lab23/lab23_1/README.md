@@ -46,4 +46,4 @@ for c, k in zip(colors, yticks):
 
 ### Conclusión
 
-Este ejercicio busca visualizar gráficos de barras en un espacio tridimensional al proyectarlos en varios planos (en este caso, y=0y=0, y=1y=1, y=2y=2, y y=3y=3). Esto crea la apariencia de múltiples gráficos de barras en capas, cada uno organizado en un plano distinto, permitiendo comparar fácilmente los datos en diferentes "niveles" dentro del mismo espacio 3D.
+Este ejercicio busca visualizar gráficos de barras en un espacio tridimensional al proyectarlos en varios planos (en este caso, *y=0*, *y=1*, *y=2*, y *y=3*). Esto crea la apariencia de múltiples gráficos de barras en capas, cada uno organizado en un plano distinto, permitiendo comparar fácilmente los datos en diferentes "niveles" dentro del mismo espacio 3D.
