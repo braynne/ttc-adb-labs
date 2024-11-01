@@ -18,3 +18,7 @@ El objetivo será analizar el rendimiento de las ventas por producto, promedio d
 ## Conclusión
 
 El análisis de ventas muestra que ciertos productos y ubicaciones generan mayores ingresos, permitiendo identificar productos exitosos y áreas de oportunidad. El promedio de ventas ayuda a entender el comportamiento de compra, y el análisis por tienda permite ajustar estrategias para mejorar el rendimiento en ubicaciones de menor desempeño. Los filtros interactivos facilitan la exploración de tendencias y permiten tomar decisiones informadas para maximizar las ventas.
+
+[Laboratorio 14](../../lab14)
+
+[Escenario 2](../lab14_2)
