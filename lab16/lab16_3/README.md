@@ -17,3 +17,7 @@ Sucursales: Información sobre las sucursales de la tienda
 ## Conclusiones
 
 Al combinar las tablas de Inventario, Ventas y Sucursales, puedes analizar los niveles de inventario y las ventas por sucursal. Esto permite identificar la demanda de productos en cada ubicación, optimizar la reposición de stock y mejorar la gestión del inventario para satisfacer mejor las necesidades de cada sucursal.
+
+[Escenario 2](../lab16_2)
+
+[Laboratorio 16](../../lab16)
