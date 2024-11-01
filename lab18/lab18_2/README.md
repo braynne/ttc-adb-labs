@@ -54,3 +54,7 @@ Estas visualizaciones en Power BI ofrecen un enfoque integral para optimizar dec
 - **Distribución de Ventas por Tienda y Ciudad (Mapa):** Visualiza las ventas por ciudad, identificando las regiones con alto y bajo rendimiento, lo cual es fundamental para estrategias de expansión y ajustes específicos según la ubicación geográfica.
 
 Estas visualizaciones proporcionan un enfoque claro y detallado, ayudando a los gerentes y analistas a maximizar ingresos, optimizar operaciones y planificar expansiones estratégicas en el mercado.
+
+[Escenario 1](../lab18_1)
+
+[Laboratorio 18](../../lab18)
