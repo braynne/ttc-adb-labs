@@ -2,11 +2,11 @@
 
 Escenario 3: Se tiene una tienda que vende varios productos, y deseas analizar el inventario y las ventas realizadas en diferentes sucursales. Para ello, tendrás tres tablas diferentes:
 
-Inventario: Información sobre los niveles de inventario de los productos en las diferentes sucursales.
+**Inventario:** Información sobre los niveles de inventario de los productos en las diferentes sucursales.
 
-Ventas: Registro de las ventas realizadas de cada producto en las diferentes sucursales.
+**Ventas:** Registro de las ventas realizadas de cada producto en las diferentes sucursales.
 
-Sucursales: Información sobre las sucursales de la tienda
+**Sucursales:** Información sobre las sucursales de la tienda
 
 ## Paso a paso para el modelado de datos y la visualización en Power BI
 
