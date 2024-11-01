@@ -4,15 +4,15 @@ En el sector de Retail se aborda un conjunto de visualizaciones diseñadas para 
 
 #### Se requiere lo siguiente:
 
-1. Analizar las ventas totales por tienda: Identificar las tiendas con mejor y peor desempeño en términos de ingresos para tomar decisiones estratégicas sobre la operación de cada sucursal.
+1. **Analizar las ventas totales por tienda:** Identificar las tiendas con mejor y peor desempeño en términos de ingresos para tomar decisiones estratégicas sobre la operación de cada sucursal.
 
-2. Evaluar la evolución de ventas mensuales: Comprender las tendencias de ventas a lo largo de un periodo de 12 meses para detectar patrones estacionales o variaciones significativas en los ingresos.
+2. **Evaluar la evolución de ventas mensuales:** Comprender las tendencias de ventas a lo largo de un periodo de 12 meses para detectar patrones estacionales o variaciones significativas en los ingresos.
 
-3. Explorar la relación entre descuentos y ventas: Determinar si los descuentos aplicados impulsan el volumen de ventas y, de ser así, en qué magnitud, para ajustar las estrategias promocionales.
+3. **Explorar la relación entre descuentos y ventas:** Determinar si los descuentos aplicados impulsan el volumen de ventas y, de ser así, en qué magnitud, para ajustar las estrategias promocionales.
 
-4. Visualizar la proporción de ventas por categoría de producto: Analizar qué categorías de productos generan más ventas para tomar decisiones sobre inventarios y promociones dirigidas.
+4. **Visualizar la proporción de ventas por categoría de producto:** Analizar qué categorías de productos generan más ventas para tomar decisiones sobre inventarios y promociones dirigidas.
 
-5. Distribuir geográficamente las ventas por ciudad: Mapear las ventas por tienda y ciudad para identificar regiones con mayor potencial de expansión y ajustar la estrategia de ventas según la ubicación geográfica.
+5. **Distribuir geográficamente las ventas por ciudad:** Mapear las ventas por tienda y ciudad para identificar regiones con mayor potencial de expansión y ajustar la estrategia de ventas según la ubicación geográfica.
 
 #### Se aplicará los siguientes gráficos:
 
