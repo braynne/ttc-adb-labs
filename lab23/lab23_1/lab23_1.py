@@ -1,13 +1,14 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-np.random.seed(0)
+np.random.seed(19680801)
 
 fig = plt.figure()
 ax = fig.add_subplot(projection='3d')
 
 colors = ['r', 'g', 'b', 'y']
 yticks = [3, 2, 1, 0]
+
 for c, k in zip(colors, yticks):
     xs = np.arange(20)
     ys = np.random.rand(20)
