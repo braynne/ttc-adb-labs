@@ -20,4 +20,4 @@ El análisis de consumo energético permite identificar edificios con mayor uso 
 
 [Escenario 2](../lab14_2)
 
-[Escenario 4](../lab14_4)
+[Laboratorio 14](../../lab14)
