@@ -22,3 +22,7 @@ El objetivo es evaluar el rendimiento de los empleados en los diferentes proyect
 ## Conclusiones
 
 Este análisis de rendimiento permite identificar a los empleados más productivos y evaluar su desempeño por proyecto y departamento. Al revisar las calificaciones de rendimiento y las horas trabajadas, la empresa puede destacar talento, reconocer áreas que requieren capacitación y mejorar la productividad general de los equipos, optimizando la asignación de recursos y el desarrollo de habilidades.
+
+[Escenario 1](../lab17_1)
+
+[Escenario 3](../lab17_3)
