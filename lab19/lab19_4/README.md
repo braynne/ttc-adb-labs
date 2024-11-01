@@ -2,7 +2,7 @@
 
 Se busca analizar la producción agrícola de diferentes países africanos, con el objetivo de identificar las áreas con mayor producción y comparar los resultados entre países.
 
-**Datos:** `produccion_agricola_africa`.
+**Datos:** `produccion_agricola_africa`
 
 ### Paso a paso
 
