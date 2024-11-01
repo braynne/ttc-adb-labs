@@ -2,13 +2,13 @@
 
 Una empresa de distribución gestiona un amplio inventario de productos en diferentes almacenes a lo largo del país. Para optimizar su operación y mejorar el proceso de reabastecimiento, desean implementar un sistema de análisis de inventarios en Power BI. Los datos disponibles incluyen información sobre los productos, los almacenes donde se almacenan, las cantidades disponibles y los costos por unidad.
 
-**Los datos tienen las siguientes columnas**
+#### Los datos tienen las siguientes columnas
 
-- Producto: Nombre del producto.
-- Almacén: Nombre del almacén donde se encuentra el producto.
-- Cantidad Disponible: Cantidad actual disponible en stock.
-- Costo Unitario: Costo por unidad del producto.
-- Fecha Ultima Compra: Fecha de la última compra del producto.
+- **Producto:** Nombre del producto.
+- **Almacén:** Nombre del almacén donde se encuentra el producto.
+- **Cantidad Disponible:** Cantidad actual disponible en stock.
+- **Costo Unitario:** Costo por unidad del producto.
+- **Fecha Ultima Compra:** Fecha de la última compra del producto.
 
 El objetivo es analizar el estado de los inventarios para identificar productos con bajo stock, determinar el costo total del inventario por almacén, y visualizar las tendencias de reabastecimiento a lo largo del tiempo.
 
