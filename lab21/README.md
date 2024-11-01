@@ -21,6 +21,8 @@
 
 En la primera parte se aplicarán los temas vistos en la sesión como la introducción al diseño de la visualización de datos, realizando comparación de los datos usando Dashboards, se deberá realizar el paso a paso con las respectivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados.
 
+Realizar el paso a paso de la creación de Dashboards, deberás realizar las respectivas capturas de pantalla, Dax, conclusión, guardar el archivo.
+
 [Escenario 1](lab21_1)
 
 [Escenario 2](lab21_2)
