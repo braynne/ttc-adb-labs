@@ -22,3 +22,7 @@ El objetivo es evaluar el rendimiento académico de los estudiantes, identificar
 ## Conclusiones
 
 Este análisis académico permite evaluar el rendimiento de los estudiantes por curso y asignatura, identificando áreas y materias con baja tasa de aprobación. Al correlacionar asistencia y calificaciones, la institución puede comprender mejor el impacto de la asistencia en el desempeño y orientar estrategias de mejora en enseñanza y apoyo para elevar el rendimiento general de los alumnos.
+
+[Escenario 2](../lab17_2)
+
+[Laboratorio 17](../../lab17)
