@@ -17,3 +17,7 @@ Regiones: Información sobre las regiones en las que se realizan las ventas.
 ## Conclusiones
 
 Al integrar y analizar estas tres tablas (Ventas, Productos y Regiones), puedes obtener un panorama claro de las ventas por categoría y región. Esto permite identificar las categorías de productos más vendidas en cada región, optimizar estrategias de venta y ajustar el inventario según la demanda regional.
+
+[Laboratorio 16](../../lab16)
+
+[Escenario 2](../lab16_2)
