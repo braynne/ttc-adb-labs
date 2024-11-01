@@ -17,3 +17,7 @@ El objetivo es analizar el consumo energético en diferentes edificios, comparar
 ## Conclusión
 
 El análisis de consumo energético permite identificar edificios con mayor uso de energía y costos asociados, facilitando comparaciones entre ubicaciones y la detección de patrones en el tiempo. Esto ayuda a optimizar el consumo, reducir costos y tomar decisiones informadas sobre eficiencia energética en cada edificio.
+
+[Escenario 2](../lab14_2)
+
+[Escenario 4](../lab14_4)
