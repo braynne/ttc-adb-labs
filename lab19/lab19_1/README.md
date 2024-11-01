@@ -6,7 +6,7 @@ Se busca visualizar la distribución geográfica de las tiendas minoristas de un
 
 ### Paso a paso
 
-[Captura de pantalla del escenario 1 en Power BI](lab19_1.png)
+![Captura de pantalla del escenario 1 en Power BI](lab19_1.png)
 
 ### Conclusión
 
