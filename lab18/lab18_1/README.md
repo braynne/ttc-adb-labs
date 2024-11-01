@@ -53,3 +53,7 @@ Estas visualizaciones en Power BI ofrecen una perspectiva completa y detallada d
 - **Distribución Geográfica de Estudiantes (Mapa):** Visualiza la ubicación de los estudiantes en diferentes localidades de Bogotá, lo cual es esencial para mejorar la logística de transporte y la planificación de rutas. Con esto, la universidad puede optimizar sus recursos de transporte y planificar de manera más eficiente.
 
 Cada visualización se centra en una métrica crítica, permitiendo una comprensión profunda de la dinámica estudiantil y facilitando una mejor toma de decisiones para optimizar los recursos y mejorar el rendimiento académico.
+
+[Laboratorio 18](../../lab18)
+
+[Escenario 2](../lab18_2)
