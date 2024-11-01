@@ -17,3 +17,7 @@ El objetivo es optimizar la calidad de los datos de inventario mediante la corre
 ## Conclusiones
 
 La limpieza de estos datos de inventario resuelve problemas como nombres de productos y precios faltantes, y elimina texto extra en las cantidades. Esto asegura registros consistentes y completos, facilitando análisis precisos para ventas y decisiones de reposición de stock en la tienda.
+
+[Escenario 2](../lab15_2)
+
+[Laboratorio 15](../../lab15)
