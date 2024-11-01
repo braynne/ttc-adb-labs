@@ -16,15 +16,15 @@ En el sector Educativo se aborda una serie de visualizaciones en Power BI que pe
 
 #### Se aplicará los siguientes gráficos:
 
-- **Gráfico de Barras – Comparación de Desempeño Estudiantil por Materia:** Se requiere analizar el desempeño promedio de los estudiantes en varias materias para identificar áreas de mejora. Las materias evaluadas incluyen Matemáticas, Ciencias, Historia, entre otras. **Propósito:** Facilitar la identificación de materias en las que los estudiantes tienen un bajo rendimiento para ajustar estrategias educativas. **Data:** `calificaciones_por_materia.`
+- **Gráfico de Barras – Comparación de Desempeño Estudiantil por Materia:** Se requiere analizar el desempeño promedio de los estudiantes en varias materias para identificar áreas de mejora. Las materias evaluadas incluyen Matemáticas, Ciencias, Historia, entre otras. **Propósito:** Facilitar la identificación de materias en las que los estudiantes tienen un bajo rendimiento para ajustar estrategias educativas. **Data:** `calificaciones_por_materia`
 
-- **Gráfico de Líneas – Evolución de Matrículas Anuales:** Se requiere analizar el número de estudiantes matriculados en los últimos cinco años, con el objetivo de identificar tendencias de crecimiento o disminución en la inscripción. **Propósito:** Ayudar en la planificación de recursos y estrategias de admisión. **Data:** `matriculas_por_año.`
+- **Gráfico de Líneas – Evolución de Matrículas Anuales:** Se requiere analizar el número de estudiantes matriculados en los últimos cinco años, con el objetivo de identificar tendencias de crecimiento o disminución en la inscripción. **Propósito:** Ayudar en la planificación de recursos y estrategias de admisión. **Data:** `matriculas_por_año`
 
 - **Gráfico de Dispersión – Relación entre Asistencia y Desempeño:** Se busca entender la relación entre la asistencia a clases y el rendimiento académico de los estudiantes. Se quiere identificar si la asistencia regular tiene un impacto significativo en las calificaciones. **Propósito:** Evaluar si la asistencia a clases influye en el rendimiento académico y si se deben implementar políticas de asistencia más estrictas. **Data:** `asistencia_vs_desempeno.`
 
-- **Gráfico Circular – Distribución de Calificaciones por Categoría:** Se requiere analizar la distribución de calificaciones entre los estudiantes, clasificando las notas en categorías (A, B, C, D, F). Esto ayudará a entender el nivel general de rendimiento académico en la institución. **Propósito:** Visualizar la proporción de estudiantes en cada rango de calificación y tomar decisiones sobre políticas educativas o programas de apoyo. **Data:** `distribucion_calificaciones.`
+- **Gráfico Circular – Distribución de Calificaciones por Categoría:** Se requiere analizar la distribución de calificaciones entre los estudiantes, clasificando las notas en categorías (A, B, C, D, F). Esto ayudará a entender el nivel general de rendimiento académico en la institución. **Propósito:** Visualizar la proporción de estudiantes en cada rango de calificación y tomar decisiones sobre políticas educativas o programas de apoyo. **Data:** `distribucion_calificaciones`
 
-- **Mapa – Distribución de Estudiantes por Localidades:** Se requiere analizar la distribución de sus estudiantes en las distintas localidades de Bogotá para mejorar la logística de transporte y la planificación de rutas. **Propósito:** Optimizar la distribución de recursos y mejorar la eficiencia del transporte. **Data:** `estudiantes_por_localidad.`
+- **Mapa – Distribución de Estudiantes por Localidades:** Se requiere analizar la distribución de sus estudiantes en las distintas localidades de Bogotá para mejorar la logística de transporte y la planificación de rutas. **Propósito:** Optimizar la distribución de recursos y mejorar la eficiencia del transporte. **Data:** `estudiantes_por_localidad`
 
 ## Paso a Paso
 
