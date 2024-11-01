@@ -4,15 +4,15 @@ En el sector Educativo se aborda una serie de visualizaciones en Power BI que pe
 
 #### Se requiere lo siguiente:
 
-1. Comparación del Desempeño Estudiantil por Materia: Ayudar a identificar áreas de mejora en el rendimiento académico de los estudiantes mediante el análisis de las calificaciones promedio por asignatura.
+1. **Comparación del Desempeño Estudiantil por Materia:** Ayudar a identificar áreas de mejora en el rendimiento académico de los estudiantes mediante el análisis de las calificaciones promedio por asignatura.
 
-2. Evolución de Matrículas Anuales: Proporcionar una visión clara de las tendencias en las matrículas anuales de una universidad para entender cómo ha cambiado la población estudiantil en los últimos años.
+2. **Evolución de Matrículas Anuales:** Proporcionar una visión clara de las tendencias en las matrículas anuales de una universidad para entender cómo ha cambiado la población estudiantil en los últimos años.
 
-3. Relación entre Asistencia y Desempeño: Evaluar cómo la asistencia a clases afecta el rendimiento académico, determinando si una mayor asistencia conduce a mejores calificaciones.
+3. **Relación entre Asistencia y Desempeño:** Evaluar cómo la asistencia a clases afecta el rendimiento académico, determinando si una mayor asistencia conduce a mejores calificaciones.
 
-4. Distribución de Calificaciones por Categoría: Mostrar la proporción de estudiantes en distintos rangos de calificación, lo que permite a la administración universitaria entender mejor el rendimiento general de los estudiantes.
+4. **Distribución de Calificaciones por Categoría:** Mostrar la proporción de estudiantes en distintos rangos de calificación, lo que permite a la administración universitaria entender mejor el rendimiento general de los estudiantes.
 
-5. Distribución Geográfica de Estudiantes: Ayudar a visualizar la distribución geográfica de sus estudiantes en distintas localidades de Bogotá, permitiendo mejorar la planificación logística y las rutas de transporte.
+5. **Distribución Geográfica de Estudiantes:** Ayudar a visualizar la distribución geográfica de sus estudiantes en distintas localidades de Bogotá, permitiendo mejorar la planificación logística y las rutas de transporte.
 
 #### Se aplicará los siguientes gráficos:
 
