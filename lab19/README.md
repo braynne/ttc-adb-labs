@@ -27,8 +27,8 @@ Realizar el paso a paso con cada visualización, personalizar los gráficos, deb
 
 [Escenario 1](lab19_1)
 
-[Escenario 1](lab19_2)
+[Escenario 2](lab19_2)
 
-[Escenario 1](lab19_3)
+[Escenario 3](lab19_3)
 
-[Escenario 1](lab19_4)
+[Escenario 4](lab19_4)
