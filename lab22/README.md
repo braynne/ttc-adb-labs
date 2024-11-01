@@ -24,3 +24,5 @@
 En la primera parte se aplicarán los temas vistos en la sesión como el uso de las herramientas para los datos. (Locker studio, Estadística descriptiva con Excel), se deberá realizar el paso a paso con las respetivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados.
 
 Realizar el paso a paso del uso de las herramientas para los datos, deberás realizar las respectivas capturas de pantalla, conclusión, guardar el archivo.
+
+[Escenario 1](lab22_1)
