@@ -6,6 +6,23 @@ Una institución bancaria desea analizar la relación entre las características
 
 ### Paso a paso
 
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Escenario 1
+
+df_financiero = pd.read_csv('source/datos_financieros.csv')
+print(df_financiero)
+
+print(f"""\nResumen de los datos:
+{df_financiero.describe()}""")
+
+print(f"""\nVerificación de valores nulos:
+{df_financiero.isnull().sum()}""")
+```
+
 [Código de python del escenario 1](lab20_1.py)
 
 ### Conclusión
