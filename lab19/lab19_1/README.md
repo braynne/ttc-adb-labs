@@ -2,7 +2,7 @@
 
 Se busca visualizar la distribución geográfica de las tiendas minoristas de una cadena en México, y analizar el número de ventas de cada tienda por región (ciudad). Este análisis permitirá identificar las ciudades con mayor y menor volumen de ventas.
 
-**Data:** `tiendas_minoristas_mexico`.
+**Data:** `tiendas_minoristas_mexico`
 
 ### Paso a paso
 
