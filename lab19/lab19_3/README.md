@@ -6,7 +6,7 @@ Busca analizar los datos de accidentes de tránsito ocurridos en diferentes ciud
 
 ### Paso a paso
 
-[Captura de pantalla del escenario 3 en Power BI](lab19_3.png)
+![Captura de pantalla del escenario 3 en Power BI](lab19_3.png)
 
 ### Conclusión
 
