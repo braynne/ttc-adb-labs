@@ -6,7 +6,7 @@ Se busca analizar la producción agrícola de diferentes países africanos, con 
 
 ### Paso a paso
 
-[Captura de pantalla del escenario 4 en Power BI](lab19_4.png)
+![Captura de pantalla del escenario 4 en Power BI](lab19_4.png)
 
 ### Conclusión
 
