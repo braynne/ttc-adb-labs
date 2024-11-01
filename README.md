@@ -18,3 +18,4 @@
 
 ### [Laboratorio 21](lab21)
 
+### [Laboratorio 22](lab22)
