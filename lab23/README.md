@@ -22,3 +22,5 @@
 En la primera parte se aplicarán los temas vistos en la sesión como las gráficas de los datos con Python (Gráficas más avanzadas con Python con la combinación de librerías), se deberá realizar el paso a paso con las respetivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados.
 
 Realizar el paso a paso de las gráficas en Python para los datos, deberás realizar las respectivas capturas de pantalla, conclusión, guardar el archivo.
+
+[Escenario 1](lab23_1)
