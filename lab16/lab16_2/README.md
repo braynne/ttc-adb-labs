@@ -11,3 +11,7 @@ Se tiene un banco con información de los clientes, las transacciones que realiz
 ## Conclusiones
 
 Al analizar los datos de clientes, transacciones y tipos de transacción, se puede entender mejor el comportamiento financiero de cada cliente. Esto permite categorizar las operaciones, visualizar los montos totales por tipo de transacción y detectar patrones de uso, facilitando decisiones estratégicas y personalización de servicios bancarios.
+
+[Escenario 1](../lab16_1)
+
+[Escenario 3](../lab16_3)
