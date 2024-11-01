@@ -2,7 +2,7 @@
 
 Busca analizar los datos de accidentes de tránsito ocurridos en diferentes ciudades de Estados Unidos durante el último año. El objetivo es visualizar la cantidad de accidentes por ciudad para identificar las áreas con mayor número de incidentes y posibles puntos críticos.
 
-**Datos:** `accidentes_transito_eeuu`.
+**Datos:** `accidentes_transito_eeuu`
 
 ### Paso a paso
 
