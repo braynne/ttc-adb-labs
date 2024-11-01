@@ -6,7 +6,25 @@ Un hospital está llevando a cabo un estudio para analizar cómo diferentes fact
 
 ### Paso a paso
 
-[Código de python del escenario 2](lab20_2.py)
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Escenario 2
+
+df_salud = pd.read_csv('source/datos_salud glu.csv')
+print(f"""Valores Originales:
+{df_salud.describe()}""")
+
+print(f"""\nVerificación valores nulos:
+{df_salud.isnull().sum()}""")
+
+df_salud['Glucosa'].fillna(df_salud['Glucosa'].median(), inplace=True)
+df_salud['IMC'].fillna(df_salud['IMC'].median(), inplace=True)
+```
+
+[Código completo del escenario 2](lab20_2.py)
 
 ### Conclusión
 
