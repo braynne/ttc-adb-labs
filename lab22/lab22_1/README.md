@@ -11,3 +11,5 @@ Una empresa desea analizar el índice de ausentismo laboral en los diferentes de
 ### Conclusión
 
 Este análisis del índice de ausentismo laboral permite identificar patrones de ausencias en los distintos departamentos, ayudando a detectar áreas con alta incidencia de ausencias. Con esta información, la empresa puede implementar políticas específicas para mejorar la asistencia y, en consecuencia, aumentar la productividad general.
+
+[Laboratorio 22](../../lab22)
