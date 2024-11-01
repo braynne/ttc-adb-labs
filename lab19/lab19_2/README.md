@@ -2,7 +2,7 @@
 
 Se quiere analiza el turismo en las principales ciudades europeas. Se busca visualizar cuántos turistas visitaron las ciudades durante el último año y compararlas según el volumen de turistas.
 
-**Datos:** `turismo_europa`.
+**Datos:** `turismo_europa`
 
 ### Paso a paso
 
