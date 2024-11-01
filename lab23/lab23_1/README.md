@@ -20,6 +20,30 @@ largo de un eje adicional (en este caso, el eje y)
 
 ### Código
 
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+np.random.seed(19680801)
+
+fig = plt.figure()
+ax = fig.add_subplot(projection='3d')
+
+colors = ['r', 'g', 'b', 'y']
+yticks = [3, 2, 1, 0]
+
+for c, k in zip(colors, yticks):
+    xs = np.arange(20)
+    ys = np.random.rand(20)
+
+    cs = [c] * len(xs)
+    cs[0] = 'c'
+
+    ax.bar(xs, ys, zs=k, zdir='y', color=cs, alpha=0.8)
+```
+
+[Código completo del escenario 1](lab23_1.py)
+
 ### Conclusión
 
 Este ejercicio busca visualizar gráficos de barras en un espacio tridimensional al proyectarlos en varios planos (en este caso, y=0y=0, y=1y=1, y=2y=2, y y=3y=3). Esto crea la apariencia de múltiples gráficos de barras en capas, cada uno organizado en un plano distinto, permitiendo comparar fácilmente los datos en diferentes "niveles" dentro del mismo espacio 3D.
