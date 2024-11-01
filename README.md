@@ -12,5 +12,8 @@
 
 ### [Laboratorio 18](lab18)
 
-### [Laboratorio 21](lab21)
+### [Laboratorio 19](lab19)
 
+### [Laboratorio 20](lab20)
+
+### [Laboratorio 21](lab21)
