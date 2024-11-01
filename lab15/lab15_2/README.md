@@ -9,3 +9,7 @@ Trabajas en un centro de atención al cliente y tienes un conjunto de datos que 
 ## Conclusiones
 
 La limpieza de estos datos corrige inconsistencias en los nombres, completa categorías de consulta faltantes y estandariza la duración de las llamadas. Esto permite un análisis más claro y preciso de las interacciones, facilitando la mejora en la atención al cliente.
+
+[Escenario 1](../lab15_1)
+
+[Escenario 3](../lab15_3)
