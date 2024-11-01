@@ -28,5 +28,3 @@ Aplicar los temas visto en la sesión con la realización del paso a paso y capt
 [Escenario 2](lab14_2)
 
 [Escenario 3](lab14_3)
-
-![Captura de pantalla de github](github.png)

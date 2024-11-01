@@ -28,6 +28,3 @@ En la primera parte se aplicarán los temas vistos en la sesión como es la limp
 [Escenario 2](lab15_2)
 
 [Escenario 3](lab15_3)
-
-![Captura de pantalla de github](github.png)
-

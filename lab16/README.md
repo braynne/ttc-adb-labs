@@ -28,5 +28,3 @@ En la primera parte se aplicarán los temas vistos en la sesión como es Visuali
 [Escenario 2](lab16_2)
 
 [Escenario 3](lab16_3)
-
-![Captura de pantalla de github](github.png)
