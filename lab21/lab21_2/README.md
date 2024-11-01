@@ -17,3 +17,7 @@ En el sector deportivo, se tiene diferentes ventas de artículos deportivos por 
 ## Concusión
 
 De este dashboard podemos extraer la información relevante acerca de las ventas de productos deportivos en Colombia, podemos ver como ese comportamiento promedio de las ventas en cada epoca del año como en su distribucion en las principales tiendas ubicadas en los departamentos mas importantes del país y podremos observar el comportamiento de los datos segmentados por fecha.
+
+[Escenario 1](../lab21_1)
+
+[Laboratorio 21](../../lab21)
