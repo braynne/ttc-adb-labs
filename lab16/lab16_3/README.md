@@ -10,9 +10,9 @@ Sucursales: Información sobre las sucursales de la tienda
 
 ## Paso a paso para el modelado de datos y la visualización en Power BI
 
-![Captura de pantalla del escenario 3 en Power BI](lab15_3-1.png)
+![Captura de pantalla del escenario 3 en Power BI](lab16_3-1.png)
 
-![Captura de pantalla del escenario 3 en Power BI](lab15_3-2.png)
+![Captura de pantalla del escenario 3 en Power BI](lab16_3-2.png)
 
 ## Conclusiones
 
