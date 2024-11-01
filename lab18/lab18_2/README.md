@@ -29,15 +29,15 @@ En el sector de Retail se aborda un conjunto de visualizaciones diseñadas para 
 ### Paso a paso
 
 
-![Captura de pantalla del escenario 2 en Power BI](lab18_2-1.png)
+![Captura de pantalla del escenario 2 en Power BI](lab18_2-1.jpg)
 
-![Captura de pantalla del escenario 2 en Power BI](lab18_2-2.png)
+![Captura de pantalla del escenario 2 en Power BI](lab18_2-2.jpg)
 
-![Captura de pantalla del escenario 2 en Power BI](lab18_2-3.png)
+![Captura de pantalla del escenario 2 en Power BI](lab18_2-3.jpg)
 
-![Captura de pantalla del escenario 2 en Power BI](lab18_2-4.png)
+![Captura de pantalla del escenario 2 en Power BI](lab18_2-4.jpg)
 
-![Captura de pantalla del escenario 2 en Power BI](lab18_2-5.png)
+![Captura de pantalla del escenario 2 en Power BI](lab18_2-5.jpg)
 
 ### Conclusiones
 
