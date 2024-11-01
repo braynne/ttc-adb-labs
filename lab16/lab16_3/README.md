@@ -1,6 +1,6 @@
 ## Escenario 3
 
-Escenario 3: Se tiene una tienda que vende varios productos, y deseas analizar el inventario y las ventas realizadas en diferentes sucursales. Para ello, tendrás tres tablas diferentes:
+Se tiene una tienda que vende varios productos, y deseas analizar el inventario y las ventas realizadas en diferentes sucursales. Para ello, tendrás tres tablas diferentes:
 
 **Inventario:** Información sobre los niveles de inventario de los productos en las diferentes sucursales.
 
