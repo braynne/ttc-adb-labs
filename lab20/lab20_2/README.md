@@ -28,7 +28,7 @@ df_salud['IMC'].fillna(df_salud['IMC'].median(), inplace=True)
 
 ### Conclusión
 
-Este análisis financiero permite estudiar la relación entre las características demográficas y el historial crediticio de los clientes, ayudando a identificar patrones en el comportamiento crediticio. Al entender cómo factores como la edad, el género, el salario y la deuda impactan el riesgo de crédito, el banco puede mejorar la gestión de riesgo y optimizar su proceso de toma de decisiones en la concesión de créditos.
+Este análisis de factores de riesgo permite identificar patrones entre variables como la edad, el género, los niveles de glucosa, el IMC y los antecedentes familiares, ayudando a detectar pacientes con mayor probabilidad de desarrollar diabetes. Al comprender cómo estos factores influyen en el riesgo, el hospital puede implementar estrategias preventivas y personalizar el seguimiento médico para los pacientes con mayor vulnerabilidad.
 
 [Escenario 1](../lab20_1)
 
