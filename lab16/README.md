@@ -21,7 +21,9 @@
 
 ### Parte 1
 
-En la primera parte se aplicarán los temas vistos en la sesión como es Visualizaciones en Power BI y modelado de datos, se deberá realizar el paso a paso con las respetivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados. Realización de la unidad del curso de AWS o Cisco y anexar captura del avance del curso.
+En la primera parte se aplicarán los temas vistos en la sesión como es Visualizaciones en Power BI y modelado de datos, se deberá realizar el paso a paso con las respetivas capturas de pantalla, esta aplicación es de acuerdo con los escenarios planteados.
+
+Realizar el paso a paso con cada visualización, personalizar los gráficos, deberás realizar las respectivas capturas de pantalla, conclusión, guardar el archivo.
 
 [Escenario 1](lab16_1)
 
