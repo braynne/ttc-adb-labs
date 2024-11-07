@@ -1,6 +1,6 @@
 # Talento Tech Caribe - Análisis de datos básico - Laboratorios
 
-## Laboratorios 14 - 21
+## Laboratorios 14 - 23
 
 ### [Laboratorio 14](lab14)
 
@@ -19,3 +19,5 @@
 ### [Laboratorio 21](lab21)
 
 ### [Laboratorio 22](lab22)
+
+### [Laboratorio 23](lab23)
