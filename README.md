@@ -21,3 +21,5 @@
 ### [Laboratorio 22](lab22)
 
 ### [Laboratorio 23](lab23)
+
+### [Laboratorio 24](lab24)
