@@ -26,4 +26,6 @@
 
 ### [Laboratorio 25](lab25)
 
-### [Laboratorio 26-28](lab26-28) (Incompleto)
+### [Laboratorios 26-28](lab26-28) (Incompleto)
+
+### [Laboratorios 29-31](lab29-31) (Incompleto)
