@@ -15,7 +15,7 @@
 **Materiales Necesarios:**
 
 1. Computador con conexión a internet.
-2. Dataset confiable de https://www.datos.gov.co/
+2. Dataset confiable de https://www.datos.gov.co
 
 **Estructura del Laboratorio:**
 
