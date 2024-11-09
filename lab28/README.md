@@ -20,6 +20,11 @@
 
 1. Se deberá entregar un informe escrito que detalle el paso a paso, debe incluir las observaciones, los hallazgos, conclusiones y recomendaciones, se debe entregar en PDF o Word.
 
+    - Se eliminaron filas en las que haya valores nulos en columnas críticas: [`ORIGEN`, `PRODUCTO`, `GRADO DE ALCOHOL`, `REGISTRO SANITARIO`].
+    - Se cambiaron valores nulos en `NOMBRE EMPRESA DISTRIBUIDORA` a `Desconocido`.
+    - Se eliminaron duplicados.
+    - Se realizaron gráficas en Google Looker con los datos limpios.
+
 2. Responder las preguntas planteadas.
 
     - ¿Cuál es la distribución de los productos según su origen (Nacional vs. Importado), y cómo afecta esto la estrategia de distribución?
