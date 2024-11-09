@@ -22,9 +22,9 @@
 
 1. Entregar un informe escrito que detalle el paso a paso, debe incluir las primeras observaciones sobre la estructura de los datos, los hallazgos, conclusiones y recomendaciones, se debe entregar en PDF o Word.
 
-    1. Se eliminaron filas en las que haya valores nulos en columnas críticas: [`ORIGEN`, `PRODUCTO`, `GRADO DE ALCOHOL`, `REGISTRO SANITARIO`].
-    2. Se cambiaron valores nulos en `NOMBRE EMPRESA DISTRIBUIDORA` a `Desconocido`.
-    3. Se eliminaron duplicados.
+    - Se eliminaron filas en las que haya valores nulos en columnas críticas: [`ORIGEN`, `PRODUCTO`, `GRADO DE ALCOHOL`, `REGISTRO SANITARIO`].
+    - Se cambiaron valores nulos en `NOMBRE EMPRESA DISTRIBUIDORA` a `Desconocido`.
+    - Se eliminaron duplicados.
 
 2. Responder las preguntas planteadas.
 
