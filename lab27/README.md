@@ -42,7 +42,7 @@
 
 3. Adjunta el Dataset, los script o archivo de la exploración.
 
-[Enlace a dataset](../lab27/Productos_licores.csv)
+[Enlace a dataset](../lab26/Productos_licores.csv)
     
 [Enlace a dataset limpio](Productos_licores_limpio.csv)
 
