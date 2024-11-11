@@ -82,6 +82,6 @@ def nulos_y_duplicados():
     else:
         print("No hay valores duplicados")
 ```
-[Código completo de Python](lab29.py)
+[Enlace a código completo de Python](lab29.py)
 
-[Archivo del dataset](Listado_Colegios.csv)
+[Enlace a archivo del dataset](Listado_Colegios.csv)
