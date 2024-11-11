@@ -24,7 +24,7 @@ Cargar los datos del dataset `Listado_Colegios.csv`
 
     - **Descripción del Dataset:** Incluyendo el origen de los datos, las variables clave, y la relevancia para el análisis.
     
-    El archivo Listado_Colegios.csv contiene datos de colegios, que posiblemente incluye variables como nombres, ubicaciones, tipos de colegios, niveles educativos, entre otros. Esta información es relevante para entender la distribución de colegios y sus características, lo que puede ser útil para tomar decisiones en sectores educativos o administrativos.
+    El archivo `Listado_Colegios.csv` contiene datos de colegios, que posiblemente incluye variables como nombres, ubicaciones, tipos de colegios, niveles educativos, entre otros. Esta información es relevante para entender la distribución de colegios y sus características, lo que puede ser útil para tomar decisiones en sectores educativos o administrativos.
     
     - **Resumen de la Carga de Datos:** Evidencia de que los datos se cargaron correctamente en Excel y Google Colab.
     
@@ -32,23 +32,22 @@ Cargar los datos del dataset `Listado_Colegios.csv`
     
     - **Exploración Inicial:** Resultados del análisis exploratorio, incluyendo tablas y gráficos que describen la estructura y características básicas de los datos.
     
-    Se realiza una exploración inicial en la que se revisan varios aspectos de los datos:
-
-    - **Duplicados:** Con `dataframe.duplicated()` se identifican filas duplicadas y su conteo.
-
-    - **Nombres de las columnas y valores únicos:** `dataframe.columns` y `dataframe.nunique()` muestran los nombres de las columnas y la cantidad de valores únicos en cada columna.
-    - **Valores nulos:** `dataframe.isnull().sum()` muestra la cantidad de valores nulos en cada columna y su porcentaje relativo.
-    - **Tipos de datos:** El script examina las columnas con datos de tipo objeto y numérico para evaluar su estructura y variación.
-    - **Columnas constantes:** También se verifica si hay columnas con valores constantes que podrían no aportar información útil.
+      Se realiza una exploración inicial en la que se revisan varios aspectos de los datos:
+      
+      - **Duplicados:** Con `dataframe.duplicated()` se identifican filas duplicadas y su conteo.
+      - **Nombres de las columnas y valores únicos:** `dataframe.columns` y `dataframe.nunique()` muestran los nombres de las columnas y la cantidad de valores únicos en cada columna.
+      - **Valores nulos:** `dataframe.isnull().sum()` muestra la cantidad de valores nulos en cada columna y su porcentaje relativo.
+      - **Tipos de datos:** El script examina las columnas con datos de tipo objeto y numérico para evaluar su estructura y variación.
+      - **Columnas constantes:** También se verifica si hay columnas con valores constantes que podrían no aportar información útil.
     
     - **Problemas Identificados:** Listado de problemas detectados (valores nulos, duplicados, errores de formato) y sugerencias iniciales para la limpieza de los datos.
     
-        - **Valores Nulos:** Se evalúan y reportan mediante `dataframe.isnull().sum()` y se calcula el porcentaje de valores nulos por columna.
-        - **Duplicados:** Se identifican y cuentan las filas duplicadas.
-        - **Formato de Datos:** Las columnas con tipo object y numérico se evalúan para detectar posibles errores de formato.
-        - **Columnas Constantes:** Las columnas con un único valor también se listan, ya que podrían eliminarse o ignorarse en análisis futuros.
+      - **Valores Nulos:** Se evalúan y reportan mediante `dataframe.isnull().sum()` y se calcula el porcentaje de valores nulos por columna.
+      - **Duplicados:** Se identifican y cuentan las filas duplicadas.
+      - **Formato de Datos:** Las columnas con tipo `object` y numérico se evalúan para detectar posibles errores de formato.
+      - **Columnas Constantes:** Las columnas con un único valor también se listan, ya que podrían eliminarse o ignorarse en análisis futuros.
 
-3. **Formulación de las preguntas con la respectiva respuesta del análisis:**
+2. **Formulación de las preguntas con la respectiva respuesta del análisis:**
 
     - ¿Qué problemas se quieren resolver con el análisis?
         
@@ -58,7 +57,7 @@ Cargar los datos del dataset `Listado_Colegios.csv`
     
         Las decisiones podrían incluir la asignación de recursos para mejorar la infraestructura educativa en áreas específicas, la apertura de nuevos colegios en áreas con alta demanda, o iniciativas para resolver problemas detectados (como falta de datos o registros incorrectos).
 
-4. **Archivos de Trabajo:**
+3. **Archivos de Trabajo:**
 
 Scripts de Python (Google Colab) utilizados para el cargue y la exploración de los datos. Archivos del dataset.
 
