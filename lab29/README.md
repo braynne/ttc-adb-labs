@@ -28,7 +28,7 @@ Cargar los datos del dataset `Listado_Colegios.csv`
     
     - **Resumen de la Carga de Datos:** Evidencia de que los datos se cargaron correctamente en Excel y Google Colab.
     
-    En el código proporcionado (`lab29.py`), los datos son cargados utilizando `pandas.read_csv`, y se explora el dataset para verificar que se haya cargado correctamente. El script muestra las primeras y últimas filas (`dataframe.head(10)` y `dataframe.tail(10)`) para una revisión inicial.
+        En el código proporcionado (`lab29.py`), los datos son cargados utilizando `pandas.read_csv`, y se explora el dataset para verificar que se haya cargado correctamente. El script muestra las primeras y últimas filas (`dataframe.head(10)` y `dataframe.tail(10)`) para una revisión inicial.
     
     - **Exploración Inicial:** Resultados del análisis exploratorio, incluyendo tablas y gráficos que describen la estructura y características básicas de los datos.
     
