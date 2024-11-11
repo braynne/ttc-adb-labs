@@ -24,7 +24,7 @@ Cargar los datos del dataset `Listado_Colegios.csv`
 
     - **Descripción del Dataset:** Incluyendo el origen de los datos, las variables clave, y la relevancia para el análisis.
     
-    El archivo `Listado_Colegios.csv` contiene datos de colegios, que posiblemente incluye variables como nombres, ubicaciones, tipos de colegios, niveles educativos, entre otros. Esta información es relevante para entender la distribución de colegios y sus características, lo que puede ser útil para tomar decisiones en sectores educativos o administrativos.
+        El archivo `Listado_Colegios.csv` contiene datos de colegios, que posiblemente incluye variables como nombres, ubicaciones, tipos de colegios, niveles educativos, entre otros. Esta información es relevante para entender la distribución de colegios y sus características, lo que puede ser útil para tomar decisiones en sectores educativos o administrativos.
     
     - **Resumen de la Carga de Datos:** Evidencia de que los datos se cargaron correctamente en Excel y Google Colab.
     
