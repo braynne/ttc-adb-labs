@@ -57,9 +57,7 @@ Cargar los datos del dataset `Listado_Colegios.csv`
     
         Las decisiones podrían incluir la asignación de recursos para mejorar la infraestructura educativa en áreas específicas, la apertura de nuevos colegios en áreas con alta demanda, o iniciativas para resolver problemas detectados (como falta de datos o registros incorrectos).
 
-3. **Archivos de Trabajo:**
-
-Scripts de Python (Google Colab) utilizados para el cargue y la exploración de los datos. Archivos del dataset.
+3. **Archivos de Trabajo:** Scripts de Python (Google Colab) utilizados para el cargue y la exploración de los datos. Archivos del dataset.
 
 ```python
 import pandas
