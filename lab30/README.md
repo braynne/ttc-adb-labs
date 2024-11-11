@@ -43,7 +43,7 @@ column_names = df_clean.columns
 ```
 [Enlace a código completo de Python](lab30.py)
 
-[Enlace a dataset limpio](Listado_Colegios_limpio.csv)
+[Enlace a archivo del dataset limpio](Listado_Colegios_limpio.csv)
 
 2. Realizar una descripción estadística básica (instituciones educativas vs. centros educativos, etc.).
 
