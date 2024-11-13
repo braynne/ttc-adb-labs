@@ -39,10 +39,6 @@ En este informe se hace un análisis descriptivo de los casos de muerte de COVID
 
 El dataset tiene 133125 filas, cada una correspondiente a un conjunto de datos relacionados con las siguientes columnas: [fecha reporte web, ID de caso, Fecha de notificación, Nombre departamento, Nombre municipio, Edad, Sexo, Tipo de contagio, Ubicación del caso, Estado, Nombre del país, Fecha de inicio de síntomas, Fecha de muerte, Fecha de diagnóstico, Pertenencia étnica, Nombre del grupo étnico]
 
-![Captura de pantalla de Power BI 1](lab33-1.png)
-
-![Captura de pantalla de Power BI 2](lab33-2.png)
-
 ### Problemas identificados
 
 No se podía graficar la edad, porque son muchos valores y la gráfica no sería comprensible.
