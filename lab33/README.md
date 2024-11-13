@@ -38,8 +38,6 @@ El dataset tiene 133125 filas, cada una correspondiente a un conjunto de datos r
 
 ![Captura de pantalla de Power BI 2](lab33-2.png)
 
-![Captura de pantalla de Power BI 3](lab33-3.png)
-
 ### Proceso de limpieza de datos
 
 1. Se eliminaron columnas no requeridas para el análisis, estas son: [Código DIVIPOLA departamento, Código DIVIPOLA municipio, Unidad de medida de edad, Código ISO del país, Recuperado, Fecha de recuperación, Tipo de recuperación]. El criterio que se usó para eliminar esas columnas, es que la información siempre era constante o es una columna repetida.
@@ -69,6 +67,8 @@ Código:
   else if [Edad] > 60 then "60+"
   else "Sin Especificar"
 ```
+
+![Captura de pantalla de Power BI 3](lab33-3.png)
 
 ### Conclusiones
 
