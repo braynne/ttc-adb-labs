@@ -29,6 +29,44 @@
 
 2. Realizar un Informe detallado de resultados de la aplicación de la estadistica descriptiva donde incluya: Introducción, descripción del Dataset, Problemas Identificados y Soluciones Propuestas y las Conclusiones.
 
+## Informe
+
+### Introducción
+
+En este informe se hace un análisis descriptivo de los casos de muerte de COVID-19 en Colombia.
+
+### Descripción del dataset
+
+El dataset tiene 133125 filas, cada una correspondiente a un conjunto de datos relacionados con las siguientes columnas: [fecha reporte web, ID de caso, Fecha de notificación, Nombre departamento, Nombre municipio, Edad, Sexo, Tipo de contagio, Ubicación del caso, Estado, Nombre del país, Fecha de inicio de síntomas, Fecha de muerte, Fecha de diagnóstico, Pertenencia étnica, Nombre del grupo étnico]
+
+![Captura de pantalla de Power BI 1](lab33-1.png)
+
+![Captura de pantalla de Power BI 2](lab33-2.png)
+
+### Problemas identificados
+
+No se podía graficar la edad, porque son muchos valores y la gráfica no sería comprensible.
+
+### Soluciones propuestas
+
+Crear una columna en la que agrupe la edad en los siguientes rangos: ["0-18", "19-35", "36-60", "60+", "Sin Especificar"].
+
+Para asignar esos valores correctamente, se utilizó un código en *Columna personalizada* y se le llamó "Edades Agrupadas".
+
+Código:
+
+```python
+= if [Edad] >= 0 and [Edad] <= 18 then "0-18"
+  else if [Edad] > 18 and [Edad] <= 35 then "19-35"
+  else if [Edad] > 35 and [Edad] <= 60 then "36-60"
+  else if [Edad] > 60 then "60+"
+  else "Sin Especificar"
+```
+
+### Conclusiones
+
+Se puede concluir que los adultos mayores son los que tienen más riesgo de muerte en caso de estar contagiado de COVID-19.
+
 3. Archivos de Trabajo: archivos de Estadistica descriptiva en Power BI, bien documentado y con explicaciones claras.
 
 [Enlace a archivo de visualizaciones de Power BI](lab34.pbix)
