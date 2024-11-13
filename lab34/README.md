@@ -29,6 +29,8 @@
 
 2. Realizar un Informe detallado de resultados de la aplicación de la estadistica descriptiva donde incluya: Introducción, descripción del Dataset, Problemas Identificados y Soluciones Propuestas y las Conclusiones.
 
+3. Archivos de Trabajo: archivos de Estadistica descriptiva en Power BI, bien documentado y con explicaciones claras.
+
 ## Informe
 
 ### Introducción
@@ -62,7 +64,5 @@ Código:
 ### Conclusiones
 
 Se puede concluir que los adultos mayores son los que tienen más riesgo de muerte en caso de estar contagiado de COVID-19.
-
-3. Archivos de Trabajo: archivos de Estadistica descriptiva en Power BI, bien documentado y con explicaciones claras.
 
 [Enlace a archivo de visualizaciones de Power BI](lab34.pbix)
