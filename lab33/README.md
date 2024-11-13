@@ -48,6 +48,8 @@ El dataset tiene 133125 filas, cada una correspondiente a un conjunto de datos r
 
 4. Con un filtro, se ocultaron filas que podrían tener valores nulos.
 
+5. En pertenencia étnica, se cambió el formato de la columna y se cambiaron sus valores: valores 5 y 6 por "No" y valor 1 por "Si".
+
 ### Problemas identificados
 
 No se podía graficar la edad, porque son muchos valores y la gráfica no sería comprensible.
