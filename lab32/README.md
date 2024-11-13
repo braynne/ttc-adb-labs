@@ -37,6 +37,6 @@
 
 3. Adjunta el archivo del dataset, los archivo de exploracion y se realizan visualizaciones.
 
-![Captura de pantalla de](lab32-1.png)
+![Captura de pantalla de datos.gov.co](lab32-1.png)
 
 [Enlace a archivo del dataset comprimido](Fallecidos_COVID_Colombia.zip)
