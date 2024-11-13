@@ -1,6 +1,6 @@
 # Talento Tech Caribe - Análisis de datos básico - Laboratorios
 
-## Laboratorios 14 - 25
+## Laboratorios 14 - 34
 
 ### [Laboratorio 14](lab14)
 
@@ -26,6 +26,20 @@
 
 ### [Laboratorio 25](lab25)
 
-### [Laboratorios 26-28](lab26-28) (Incompleto)
+### [Laboratorio 26](lab26)
 
-### [Laboratorios 29-31](lab29-31) (Incompleto)
+### [Laboratorio 27](lab26)
+
+### [Laboratorio 28](lab26)
+
+### [Laboratorio 29](lab29)
+
+### [Laboratorio 30](lab26)
+
+### [Laboratorio 31](lab26)
+
+### [Laboratorio 32](lab26)
+
+### [Laboratorio 33](lab26)
+
+### [Laboratorio 34](lab26)
