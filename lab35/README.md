@@ -26,19 +26,19 @@
 
     - ¿Cuáles fueron las principales tendencias en las tasas de fallecimientos por COVID-19 a lo largo del tiempo?
     
-        Las muertes por COVID-19 fueron más altas entre Julio de 2020 y Julio de 2021.
+        *Las muertes por COVID-19 fueron más altas entre Julio de 2020 y Julio de 2021.*
     
     - ¿Qué regiones o departamentos presentaron las tasas más altas de mortalidad?
     
-        Bogotá y la región pacifico.
+        *Bogotá y la región pacifico.*
     
     - ¿Cómo influyeron factores como la edad, el género y las comorbilidades en las tasas de mortalidad?
     
-        Los adultos mayores tuvieron más muertes por COVID-19 y de esos los hombres tuvieron más muertes que las mujeres.
+        *Los adultos mayores tuvieron más muertes por COVID-19 y de esos los hombres tuvieron más muertes que las mujeres.*
     
     - ¿Hubo picos específicos de mortalidad durante el tiempo analizado y a qué se debieron?
 
-        Sí, por la etapa temprana de la pandemia, no había vacunas.
+        *Sí, por la etapa temprana de la pandemia, no había vacunas.*
     
 4. Adjunta el Dataset, los scripts, archivo de las visualizaciones. 
 
