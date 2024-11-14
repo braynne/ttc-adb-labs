@@ -45,3 +45,5 @@
     ![Captura de pantalla de Power BI 1](lab35-1.png)
     
     ![Captura de pantalla de Power BI 2](lab35-2.png)
+
+    [Enlace a archivo del dataset comprimido](../lab32/Fallecidos_COVID_Colombia.zip)
